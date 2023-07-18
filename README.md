@@ -1,5 +1,5 @@
 # Online Medicine Ordering System
- Online Medicine Ordering System
+ Online Medicine Ordering System (OOP Project)
 
 ![P1](https://github.com/IT21278280/Online-Medicine-Ordering-System/assets/99583379/80bfdfc9-20a5-4151-a76f-039d23a70115)
 ![P2](https://github.com/IT21278280/Online-Medicine-Ordering-System/assets/99583379/4cb31262-bdb1-450c-a7fe-d3b148d31eb8)
